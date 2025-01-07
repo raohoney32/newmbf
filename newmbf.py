@@ -1,15 +1,4 @@
 #!/usr/bin/python3
-#coding=utf-8
-
-################################################################
-# CODING BY MR JEECK X MR RISKY X XENZI X GANZ X YUMASA X ROMI #
-#      JANGAN BLANG LU ITU MASTAH KALO RECOD TOOLS INI         #
-################################################################
-#
-# JANGAN KEK ANAK SEBELAH YA HIDUPNYA CUMA RECOD TAPI DI JUAL !!
-# INGAT NGODING ITU SUSAH NGGAK SE GAMPANG YANG LU UBAH NAMA AUTHORNYA
-#>>>>>>>> PAHAM !!!!!
-##### >>>> IMPORT MODULE
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
 from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
